@@ -2,3 +2,4 @@
 tccs
 pydeaenv
 tmp
+*.parquet
