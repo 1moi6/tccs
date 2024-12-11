@@ -40,7 +40,7 @@ if __name__ == "__main__":
     ssh_host = '200.17.60.251'
     ssh_port = 12299
     ssh_username = 'liama'
-    ssh_password = 'npk052515'  # Substitua pela senha correta ou use chave SSH
+    ssh_password = 'teste'  # Substitua pela senha correta ou use chave SSH
     remote_host = '10.10.10.2'
     remote_port = 11434
     local_port = 11434  # Porta local onde você escutará o tráfego
