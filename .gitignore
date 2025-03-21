@@ -3,3 +3,4 @@ tccs
 pydeaenv
 tmp
 *.parquet
+/ambiente
