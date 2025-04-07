@@ -4,3 +4,4 @@ pydeaenv
 tmp
 *.parquet
 /ambiente
+.env
