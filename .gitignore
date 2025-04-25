@@ -5,3 +5,4 @@ tmp
 *.parquet
 /ambiente
 .env
+/valmir/NDVI_Timelapse
